@@ -7,13 +7,34 @@ This repository contains a Jupyter Notebook demonstrating how to use LiteLLM wit
 
 ## 📌 Overview
 
-The notebook includes:
+This notebook demonstrates how to use **LiteLLM** to interact with multiple large language model providers in a unified way.
 
-* Basic LiteLLM usage
-* Calling different LLM providers (Groq, Cohere)
-* Load balancing & routing examples
-* Fallback strategies
-* Integration with Langfuse
+## 🧠 What’s inside the notebook
+
+The notebook walks through practical, hands-on examples including:
+
+* **Basic LiteLLM usage**
+  How to send prompts and receive responses using a simple, unified API.
+
+* **Working with multiple providers**
+  Examples of calling different LLM providers such as Groq and Cohere using the same interface.
+
+* **Routing and model selection**
+  How to switch between models or providers depending on the use case.
+
+* **Fallback strategies**
+  Handling failures by automatically switching to alternative models.
+
+* **Logging and monitoring (Langfuse)**
+  Tracking requests and responses for debugging and observability.
+
+## 🎯 Purpose
+
+This notebook is intended as a **learning and experimentation resource** for:
+
+* Understanding how LiteLLM simplifies multi-provider LLM usage
+* Testing different models
+* Building a foundation before moving to production-level code
 
 ## 📂 Structure
 
