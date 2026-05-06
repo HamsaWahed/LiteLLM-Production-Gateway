@@ -1,8 +1,5 @@
 # LiteLLM-Production-Gateway
 Production-ready LiteLLM project with clean structure, examples, and notebook for experimentation
-
-# LiteLLM Project
-
 This repository contains a Jupyter Notebook demonstrating how to use LiteLLM with multiple providers such as Groq and Cohere.
 
 ## 📌 Overview
