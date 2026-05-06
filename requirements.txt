@@ -1,0 +1,8 @@
+litellm
+openai
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+ipython
+pprintpp
